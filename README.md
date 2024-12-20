@@ -1,7 +1,7 @@
 # AudioLM PyTorch
 
 <p align="center">
-  <img src="AudioLM.png" alt="AudioLM" style="display:block; margin:auto; width:650px;" />
+  <img src="AudioLM.png" alt="AudioLM" style="display:block; margin:auto; width:750px;" />
 </p>
 
 PyTorch implementation of AudioLM.
